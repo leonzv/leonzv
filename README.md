@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leonzv" alt="leonzv" /></a> </p>
 
-- 🌱 I’m currently learning **React, Firebase**
+- 🌱 I’m currently learning **React and Firebase**
 
-- 📫 How to reach me **leonzv19@gmail.com**
+- 📫 How to reach me **leonzv19@gmail.com / +55 11 995989089**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
