@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonzv&label=Profile%20views&color=0e75b6&style=flat" alt="leonzv" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leonzv" alt="leonzv" /></a> </p>
-
 - 🌱 I’m currently learning **React and Firebase**
 
 - 📫 How to reach me **leonzv19@gmail.com / +55 11 995989089**
@@ -22,5 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonzv&show_icons=true&locale=en&layout=compact" alt="leonzv" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leonzv&show_icons=true&locale=en" alt="leonzv" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leonzv&" alt="leonzv" /></p>
