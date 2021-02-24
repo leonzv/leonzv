@@ -9,9 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/adoaacvgpdubikok9fqeaonufglqqqsrvekakgu/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/adoaacvgpdubikok9fqeaonufglqqqsrvekakgu/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/leonzv19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="leonzv19" height="30" width="40" /></a>
-<a href="https://discord.gg/LeonZv#8199" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="LeonZv#8199" height="30" width="40" /></a>
+<a href="https://twitter.com/leonzv_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="leonzv_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adoaacvgpdubikok9fqeaonufglqqqsrvekakgu/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="adoaacvgpdubikok9fqeaonufglqqqsrvekakgu/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
