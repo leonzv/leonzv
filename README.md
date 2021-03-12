@@ -1,8 +1,6 @@
 <h1 align="center">Hi there👋, I'm Leonardo Vinicius</h1>
 <h3 align="center">Front-End Developer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leonzv&label=Profile%20views&color=0e75b6&style=flat-square" alt="leonzv" /> </p>
-
 - 📫 How to reach me **leonzv19@gmail.com / +55 11 995989089**
 
 <h3 align="left">Connect with me:</h3>
