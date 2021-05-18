@@ -1,7 +1,7 @@
 <h1 align="center">Hey! 👋, I'm Leonardo Vinicius</h1>
 <h3 align="center">Front-End Developer from Brazil</h3>
 
-- 📫 How to reach me **leonzv19@gmail.com / +55 11 995989089**
+- 📫 How to reach me **leowfce@gmail.com / +55 11 995989089**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
