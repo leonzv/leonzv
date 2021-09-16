@@ -1,8 +1,6 @@
 <h1 align="center">Hey 👋, I'm Leonardo Vinicius</h1>
 <h3 align="center">Frontend developer from Brazil</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leonzv" alt="leonzv" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://leonzv.github.io/](https://leonzv.github.io/)
 
 - 📫 How to reach me **leowfce@gmail.com**
