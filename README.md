@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Leonardo Vinicius</h1>
-<h3 align="center">Frontend developer from Brazil</h3>
+<h3 align="center">FullStack developer from Brazil</h3>
 
 - 👨‍💻 All of my projects are available at [https://leonzv.github.io/](https://leonzv.github.io/)
 
