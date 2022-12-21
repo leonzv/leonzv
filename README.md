@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Leonardo Vinicius</h1>
 <h3 align="center">Full Stack developer from Brazil</h3>
 
-<--! - 👨‍💻 All of my projects are available at [https://leonzv.github.io/](https://leonzv.github.io/) -->
+<!-- - 👨‍💻 All of my projects are available at [https://leonzv.github.io/](https://leonzv.github.io/) -->
 
 - 📫 How to reach me **leowfce@gmail.com**
 
